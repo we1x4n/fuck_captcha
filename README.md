@@ -28,3 +28,10 @@ image=<@URLENCODE><@BASE64><@IMG_RAW></@IMG_RAW></@BASE64></@URLENCODE>
 # 参考文章
 
 [captcha-killer调用tesseract-ocr识别验证码](https://github.com/c0ny1/captcha-killer/tree/master/doc/case01)
+
+
+# 招聘
+
+渗透测试工程师(base:哈尔滨)
+
+![](wechat-qrcode.png)
