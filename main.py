@@ -1,3 +1,4 @@
+from flask import Flask,request
 import os
 import muggle_ocr
 import base64,time
