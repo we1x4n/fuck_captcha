@@ -12,7 +12,7 @@
 
 # 安装方法
 
-`pip3 install muggle-ocr`
+`pip3 install muggle-ocr-1.0.3.tar.gz -i http://mirrors.aliyun.com/pypi/simple/`
 
 # 使用方法
 
