@@ -12,7 +12,11 @@
 
 # 安装方法
 
-`pip3 install muggle-ocr-1.0.3.tar.gz -i http://mirrors.aliyun.com/pypi/simple/`
+```
+git clone https://github.com/we1x4n/fuck_captcha.git
+cd fuck_captche
+pip3 install muggle-ocr-1.0.3.tar.gz -i http://mirrors.aliyun.com/pypi/simple/
+```
 
 # 使用方法
 
